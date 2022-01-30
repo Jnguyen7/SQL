@@ -5,6 +5,7 @@ SELECT season,
  FROM vaccination;
  
  SELECT * FROM Vaccination;
+ 
  -- Select Data that we will start with
  
  SELECT Vaccine, 
